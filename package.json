@@ -1,0 +1,18 @@
+{
+  "name": "auth-methods",
+  "version": "1.0.0",
+  "description": "An app to demonstrate different authentication techniques",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "yashas",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "btoa": "^1.2.1",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
